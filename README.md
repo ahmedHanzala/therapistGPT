@@ -1,1 +1,1 @@
-#Therapist bot using OPENAI embeddings
+# Therapist bot using OPENAI embeddings
